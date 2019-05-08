@@ -3,10 +3,14 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+<<<<<<< HEAD
 [Ll]ogs/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
+=======
+Assets/AssetStoreTools*
+>>>>>>> 53c5c3a2446c196e7864763170f594900ae6c1ec
 
 # Visual Studio cache directory
 .vs/
